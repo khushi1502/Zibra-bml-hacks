@@ -9,7 +9,7 @@ Project built at BML Hacks
 [Link to PPT](https://drive.google.com/drive/u/1/folders/1qPF_3pgPFS9omsGc9o5mZRWeWDiCN4F7)
 
 
-![investo_mockup]()
+![investo_mockup](https://github.com/khushi1502/Zibra-bml-hacks/blob/master/investify.png)
 
 To create a platform where the persuasion of equity and capital benefits both aspiring entrepreneurs and investors.
 India is a budding hub of businesses, all big and small. Though big businesses are thriving and scaling, there are several other businesses that are still fighting to find their place in the market, struggling to connect with investors and raise investments especially during the tough times of the pandemic.
