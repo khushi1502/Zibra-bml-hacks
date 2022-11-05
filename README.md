@@ -4,7 +4,9 @@ Project built at BML Hacks
 [Link to Figma design](https://www.figma.com/proto/jy1hfIOWNibXWjNaA6EX4N/investify-(Copy)?node-id=2%3A40&starting-point-node-id=2%3A40)
 
 
-[Link to Video Demo]()
+[Link to Video Demo](https://drive.google.com/drive/u/1/folders/1qPF_3pgPFS9omsGc9o5mZRWeWDiCN4F7)
+
+[Link to PPT](https://drive.google.com/drive/u/1/folders/1qPF_3pgPFS9omsGc9o5mZRWeWDiCN4F7)
 
 
 ![investo_mockup]()
